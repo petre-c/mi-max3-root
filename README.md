@@ -1,9 +1,15 @@
 # mi-max3-root
 
-### fastboot flash recovery (01-07-2019)twrp_v323-4_nitrogen_nijel8-MOD.img
-### fastboot boot (01-07-2019)twrp_v323-4_nitrogen_nijel8-MOD.img
+# Boot to recovery (cmd in the folder)
 
 ---
 
-### fastboot flash recovery "(02-01-2019)twrp_v323-4_nitrogen_nijel8-MOD.img"
-### fastboot boot "(02-01-2019)twrp_v323-4_nitrogen_nijel8-MOD.img"
+```cmd
+fastboot flash recovery "(02-01-2019)twrp_v323-4_nitrogen_nijel8-MOD.img"
+fastboot boot "(02-01-2019)twrp_v323-4_nitrogen_nijel8-MOD.img"
+echo Done
+```
+
+# Install Magisk
+
+### Magisk-v18.0.zip from TWRP
