@@ -4,8 +4,11 @@
 
 ---
 
-### fastboot flash recovery "(02-01-2019)twrp_v323-4_nitrogen_nijel8-MOD.img"
-### fastboot boot "(02-01-2019)twrp_v323-4_nitrogen_nijel8-MOD.img"
+```cmd
+fastboot flash recovery "(02-01-2019)twrp_v323-4_nitrogen_nijel8-MOD.img"
+fastboot boot "(02-01-2019)twrp_v323-4_nitrogen_nijel8-MOD.img"
+echo "Done"
+```
 
 # Install Magisk
 
